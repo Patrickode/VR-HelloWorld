@@ -898,7 +898,7 @@ MonoBehaviour:
   m_ActivateUsage: 2
   m_UIPressUsage: 2
   m_AxisToPressThreshold: 0.1
-  m_ModelPrefab: {fileID: 1374418670183655860, guid: dadd8d7504d00f948b21b6653b988147,
+  m_ModelPrefab: {fileID: 8006269673849289125, guid: dadd8d7504d00f948b21b6653b988147,
     type: 3}
   m_ModelTransform: {fileID: 0}
   m_AnimateModel: 0
@@ -1022,7 +1022,7 @@ MonoBehaviour:
   m_ActivateUsage: 2
   m_UIPressUsage: 2
   m_AxisToPressThreshold: 0.1
-  m_ModelPrefab: {fileID: 1374418670183655860, guid: dadd8d7504d00f948b21b6653b988147,
+  m_ModelPrefab: {fileID: 8006269673849289125, guid: dadd8d7504d00f948b21b6653b988147,
     type: 3}
   m_ModelTransform: {fileID: 0}
   m_AnimateModel: 0
